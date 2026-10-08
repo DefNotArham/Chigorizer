@@ -83,11 +83,6 @@ function App() {
             points.
           </p>
         </section>
-
-        <footer className="mt-12 text-center text-sm text-gray-400">
-          Powered by{" "}
-          <span className="font-semibold text-[#1F3864]">Nefoxion</span>
-        </footer>
       </main>
     </div>
   );
